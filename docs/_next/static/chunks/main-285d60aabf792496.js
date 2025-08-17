@@ -86,7 +86,7 @@
         o = r(1297)
       function a(e, t) {
         return (0, o.normalizePathTrailingSlash)(
-          (0, n.addPathPrefix)(e, "/Portfolio")
+          (0, n.addPathPrefix)(e, "/ra1461392311014")
         )
       }
       ;("function" == typeof t.default ||
@@ -219,7 +219,7 @@
         })
       let n = r(7459)
       function o(e) {
-        return (0, n.pathHasPrefix)(e, "/Portfolio")
+        return (0, n.pathHasPrefix)(e, "/ra1461392311014")
       }
       ;("function" == typeof t.default ||
         ("object" == typeof t.default && null !== t.default)) &&
@@ -531,7 +531,7 @@
                             640, 750, 828, 1080, 1200, 1920, 2048, 3840,
                           ],
                           imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-                          path: "/Portfolio/ra1461392311014/_next/image/",
+                          path: "/ra1461392311014/_next/image/",
                           loader: "default",
                           dangerouslyAllowSVG: !1,
                           unoptimized: !1,
@@ -1117,7 +1117,7 @@
           },
         }),
         r(1447)
-      let n = "/Portfolio"
+      let n = "/ra1461392311014"
       function o(e) {
         return (
           0 === n.length ||
@@ -4521,7 +4521,7 @@
           ;(this.events = V.events), (this.pageLoader = i)
           let O = (0, p.isDynamicRoute)(e) && self.__NEXT_DATA__.autoExport
           if (
-            ((this.basePath = "/Portfolio"),
+            ((this.basePath = "/ra1461392311014"),
             (this.sub = f),
             (this.clc = null),
             (this._wrapApp = l),
