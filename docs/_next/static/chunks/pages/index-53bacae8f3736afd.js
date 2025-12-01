@@ -290,7 +290,7 @@
           {
             name: "Synapse",
             anoSemestre: "2025-2",
-            academicPartner: "FATEC",
+            academicPartner: "Dom Rock",
             description:
               "Synapse \xe9 uma plataforma inteligente e automatizada de relat\xf3rios de pr\xf3xima gera\xe7\xe3o projetada para revolucionar a tomada de decis\xe3o organizacional por meio de processamento de dados inteligente e insights alimentados por IA.",
             personalContributions:
